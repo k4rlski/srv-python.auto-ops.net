@@ -11,6 +11,12 @@ sync-data: https://github.com/k4rlski/sync-data
 
 dsx-data-sync-io: https://github.com/k4rlski/dsx-data-sync-io
 
+## dropbox location
+
+```
+move to here
+```
+
 ## AI chats for this were at:
 
 
