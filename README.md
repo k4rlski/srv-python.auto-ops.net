@@ -554,3 +554,178 @@ Index: []
 root@python:~# 
 
 ```
+## history rgrant
+```
+rgrant@python:~$ history
+    1  cd ..
+    2  ls
+    3  cd ..
+    4  ls
+    5  crontab -l
+    6  sudo crontab -l
+    7  python3 --version
+    8  vim
+    9  python3 which
+   10  which python3
+   11  ls
+   12  sudo mkdir app
+   13  ls
+   14  cd app
+   15  sudo chmod a+rwx /app/
+   16  ls -l
+   17  ls
+   18  sudo vim python-migration.py 
+   19  which python3
+   20  /usr/bin/python3 /app/data-migration-ext.py >> /app/log_file 2>&1
+   21  ls
+   22  cat log_file 
+   23  /usr/bin/python3 /app/python-migration.py >> /app/log_file 2>&1
+   24  cat log_file 
+   25  /usr/bin/python3 /app/python-migration.py >> /app/log_file 2>&1
+   26  cat log_file 
+   27  /usr/bin/python3 /app/python-migration.py >> /app/log_file 2>&1
+   28  cat log_file 
+   29  /usr/bin/python3 /app/python-migration.py >> /app/log_file 2>&1
+   30  cat log_file 
+   31  ls
+   32  sudo rm log_file 
+   33  ls
+   34  sudo crontab -e
+   35  ls
+   36  ls -l
+   37  sudo chmod +x python-migration.py 
+   38  ls -l
+   39  ls
+   40  cat log_file 
+   41  clear
+   42  sudo crontab -l
+   43  timedatectl
+   44  cat log_file 
+   45  cd ..
+   46  ls
+   47  cd ..
+   48  cd app/
+   49  ls
+   50  sudo vim python-migration.py 
+   51  python3 python-migration.py 
+   52  ls
+   53  ls -la
+   54  ls
+   55  cd ..
+   56  ls
+   57  cd ..
+   58  ls
+   59  cd app
+   60  ls
+   61  sudo crontab -e
+   62  sudo crontab -l
+   63  ls
+   64  sudo chmod +x data-sync.py
+   65  ls
+   66  sudo crontab -e
+   67  ls
+   68  sudo crontab -l
+   69  cat log_file 
+   70  ls
+   71  cat data-sync.py 
+   72  ls
+   73  cd /app/
+   74  ls
+   75  sudo vim data-sync.py 
+   76  exit
+   77  ls
+   78  cd /app/
+   79  ls
+   80  sudo vim data-sync.py 
+   81  ld
+   82  ls
+   83  cd /app/
+   84  ls
+   85  ls -ld map-news.json 
+   86  sudo chmod 777 map-news.json 
+   87  ls
+   88  python3 data-sync.py
+   89  cd /app/
+   90  ls
+   91  clear
+   92  ls
+   93  sudo rm map-news.json 
+   94  ls
+   95  sudo mv data-sync.py data-sync_20231205.py
+   96  ls
+   97  sudo chmod a+rwx data-sync.py
+   98  ls
+   99  python3 --version
+  100  python3 data-sync.py
+  101  ls
+  102  cd /a
+  103  cd /app/
+  104  ls
+  105  ls -ld data-sync_20231205.py 
+  106  ls -ld data-sync.py
+  107  ls -ld /app/
+  108  ls
+  109  sudo chmod a+rwx data-sync.py 
+  110  cat log_file 
+  111  ls
+  112  ls -ld map-news.json 
+  113  ls -ld master-map.json 
+  114  sudo chown root:root map-news.json 
+  115  ls
+  116  cat log_file
+  117  ls
+  118  cat data-sync.py
+  119  clear
+  120  ks
+  121  ls
+  122  cat log_file
+  123  ls
+  124  sudo vim data-sync.py
+  125  sudo mv log_file log_file_20231205
+  126  ls
+  127  cat log_file
+  128  sudo vim data-sync.py
+  129  sudo crontab -l
+  130  sudo crontab -e
+  131  sudo vim data-sync.py
+  132  sudo crontab -e
+  133  ls
+  134  cat log_file
+  135  sudo > log_file
+  136  ls
+  137  cat log_file
+  138  cat log_file 
+  139  cat log_file
+  140  ls
+  141  cd /app
+  142  ls
+  143  cd /app/
+  144  ls
+  145  cd new\ sync\ files/
+  146  ls
+  147  sudo mv 'new sync files' 'sync_files'
+  148  sudo rm 'new sync files'
+  149  sudo rm new\ sync\ files/
+  150  ls
+  151  cd ..
+  152  ls
+  153  sudo mv new\ sync\ files/ sync_files
+  154  ls
+  155  ls -ld sync_files/
+  156  ls
+  157  sudo vim data-sync
+  158  sudo vim data-sync.py
+  159  cd /ap
+  160  cd /app/
+  161  ls
+  162  python3 data-sync.py
+  163  crontab -l
+  164  sudo crontab -l
+  165  ls
+  166  cat log_file
+  167  sudo crontab -l
+  168  sudo vim data-sync.py 
+  169  ls
+  170  cat log_file
+  171  history
+```
