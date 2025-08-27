@@ -5,7 +5,11 @@ server that ran the data sync perfect but now needs to retire to save on cost
 
 The data sync or sync-data app whichever we call it, is documented in it's own repo here:
 
+data-sync: https://github.com/k4rlski/data-sync
 
+sync-data: https://github.com/k4rlski/sync-data
+
+dsx-data-sync-io: https://github.com/k4rlski/dsx-data-sync-io
 
 ## AI chats for this were at:
 
